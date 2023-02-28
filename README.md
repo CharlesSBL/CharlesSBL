@@ -1,6 +1,6 @@
 <img alt="Hello I'm Karol" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2986cc&center=false&vCenter=true&width=435&lines=Hello+I'm+Karol">
 
-![Frontend developer](https://user-images.githubusercontent.com/55458485/208723510-b0c353a0-b497-4dc5-8c90-4228def3f51d.png)
+![newImg](https://user-images.githubusercontent.com/113734556/221898404-bab5aef8-298e-459c-adce-f0d4e7bc6c5f.png)
 
 ## Most recent project
 
