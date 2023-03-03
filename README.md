@@ -10,7 +10,7 @@ We're looking for contributors! Check out the projects [repo](https://github.com
 
 ## Important links
 
-💻 All of my projects are available in [my portfolio](https://portfolio01-kappa.vercel.app/)
+💻 All of my projects are available in [my portfolio](https://portfolio01-kappa.vercel.app/) => project in development
 
 📧 How to reach me [Click here](https://portfolio01-kappa.vercel.app/contact)
 
