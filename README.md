@@ -22,7 +22,7 @@ We're looking for contributors! Check out the projects [repo](https://github.com
 
 ## Tech I use
 
-![My Skills](https://skillicons.dev/icons?i=git,github,java,javascript,typescript,react,nextjs,jest,css,nodejs)
+![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,react,jest,typescript,nextjs)
 
 ## Some stats
 
