@@ -10,9 +10,9 @@ We're looking for contributors! Check out the projects [repo](https://github.com
 
 ## Important links
 
-💻 All of my projects are available in [my portfolio](https://purpleblack.dev/)
+💻 All of my projects are available in [my portfolio](https://portfolio01-kappa.vercel.app/)
 
-📧 How to reach me [Click here](https://purpleblack.dev/contact)
+📧 How to reach me [Click here](https://portfolio01-kappa.vercel.app/contact)
 
 ## Funfacts about me
 
@@ -22,7 +22,7 @@ We're looking for contributors! Check out the projects [repo](https://github.com
 
 ## Tech I use
 
-![My Skills](https://skillicons.dev/icons?i=git,github,javascript,typescript,react,nextjs,jest,css,java,nodejs)
+![My Skills](https://skillicons.dev/icons?i=git,github,java,javascript,typescript,react,nextjs,jest,css,nodejs)
 
 ## Some stats
 
