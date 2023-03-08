@@ -2,12 +2,6 @@
 
 ![newImg](https://user-images.githubusercontent.com/113734556/221898404-bab5aef8-298e-459c-adce-f0d4e7bc6c5f.png)
 
-## Most recent project
-
-Currently I'm working on an **Open source** project: **[BEWEBDEV.TECH](https://bewebdev.tech/)**
-
-We're looking for contributors! Check out the projects [repo](https://github.com/NowYouKnowProgramming/webdev-learning-materials)
-
 ## Important links
 
 💻 All of my projects are available in [my portfolio](https://portfolio01-kappa.vercel.app/) => project in development
