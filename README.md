@@ -23,8 +23,5 @@
 <span>
 <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlesSBL&show_icons=true&locale=en&layout=compact&theme=transparent" alt="CharlesSBL" /> 
 </span>
-<span>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=CharlesSBL&show_icons=true&locale=en&theme=transparent" alt="CharlesSBL" />
-</span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CharlesSBL&label=Profile%20views&color=0e75b6&style=flat" alt="CharlesSBL" /> </p>
