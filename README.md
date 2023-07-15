@@ -16,7 +16,7 @@
 
 ## Tech I use
 
-![My Skills](https://skillicons.dev/icons?i=java,typescript,nodejs,react,jest,nextjs)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,scala,junit,spring,typescript,nodejs,react,jest,nextjs)
 
 ## Some stats
 
