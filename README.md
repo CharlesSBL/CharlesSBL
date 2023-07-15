@@ -4,7 +4,7 @@
 
 💻 All of my projects are available in [my portfolio](https://portfolio01-kappa.vercel.app/) => project in development
 
-📧 How to reach me [Click here](https://portfolio01-kappa.vercel.app/contact)
+📧 How to reach me [Click here](https://linkedin.com/in/karol-s-802755258)
 
 ## Funfacts about me
 
