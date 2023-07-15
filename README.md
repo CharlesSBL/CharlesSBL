@@ -1,5 +1,4 @@
-<img alt="Hello I'm Karol" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=27f0c0&center=false&vCenter=true&width=435&lines=Hello+I'm+Charles">
-
+<img alt="Hello I'm Karol" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=e3fcf6&center=false&vCenter=true&width=435&lines=Hello+I'm+Charles">
 
 ## Important links
 
