@@ -11,13 +11,3 @@
 ⚙ I learned to code to do my work faster
 
 🐱‍👤 I respond very fast to messages
-
-## Tech I use
-
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,scala,spring,typescript,nodejs,react,jest,nextjs)
-
-## Some stats
-
-<span>
-<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlesSBL&show_icons=true&locale=en&layout=compact&theme=transparent" alt="CharlesSBL" /> 
-</span>
