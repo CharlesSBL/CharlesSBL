@@ -1,5 +1,5 @@
 
-# 👋 Cześć, jestem [Twoje Imię]!
+# 👋 Cześć, jestem Karol!
 
 ### Software Architect & Full-Stack Developer
 
