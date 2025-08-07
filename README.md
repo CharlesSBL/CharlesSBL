@@ -8,7 +8,7 @@ Jestem pasjonatem tworzenia oprogramowania, który specjalizuje się w projektow
 - 🔭 Obecnie eksploruję granice wydajności w **Rust** i **GraalVM Native Image**.
 - 🌱 Udoskonalam swoje umiejętności w zakresie **deklaratywnego zarządzania systemami** za pomocą **NixOS**.
 - 💬 Chętnie porozmawiam o **architekturze oprogramowania, teorii kompilacji, systemach rozproszonych i modelowaniu AI**.
-- 📫 Jak się ze mną skontaktować: [twoj.email@example.com](mailto:twoj.email@example.com) | [LinkedIn](https://www.linkedin.com/in/twoj-profil/)
+
 
 ---
 
