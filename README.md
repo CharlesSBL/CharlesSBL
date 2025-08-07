@@ -14,7 +14,7 @@ Jestem pasjonatem tworzenia oprogramowania, który specjalizuje się w projektow
 
 ## 🚀 O Mnie
 
-Jako programista poliglota, płynnie poruszam się między różnymi paradygmatami i ekosystemami – od niskopoziomowego programowania systemowego w **Rust** i **C**, przez budowanie solidnych aplikacji enterprise w **Javie (Spring Boot)**, aż po tworzenie dynamicznych interfejsów w **TypeScript/React**.
+Jako programista, poruszam się między różnymi paradygmatami i ekosystemami – od niskopoziomowego programowania systemowego w **Rust** i **C**, przez budowanie solidnych aplikacji enterprise w **Javie (Spring Boot)**, aż po tworzenie dynamicznych interfejsów w **TypeScript/React**.
 
 Fascynuje mnie optymalizacja wydajności, automatyzacja i tworzenie odtwarzalnych środowisk deweloperskich, co znalazło odzwierciedlenie w moich projektach z użyciem **GraalVM**, **Dockera** i **NixOS**. Wierzę, że najlepsze oprogramowanie powstaje na styku głębokiego zrozumienia fundamentów informatyki i praktycznego podejścia do rozwiązywania realnych problemów.
 
