@@ -1,31 +1,21 @@
-
-# 👋 Cześć, jestem Karol!
-
+# 👋 Hi, I’m Karol!
 ### Software Architect & Full-Stack Developer
-
-Jestem pasjonatem tworzenia oprogramowania, który specjalizuje się w projektowaniu i budowaniu złożonych, wydajnych i skalowalnych systemów. Moja praca koncentruje się na łączeniu wysokopoziomowej wizji architektonicznej z niskopoziomową implementacją, aby dostarczać rozwiązania, które są nie tylko eleganckie technicznie, ale także pragmatyczne i skuteczne.
-
-- 🔭 Obecnie eksploruję granice wydajności w **Rust** i **GraalVM Native Image**.
-- 🌱 Udoskonalam swoje umiejętności w zakresie **deklaratywnego zarządzania systemami** za pomocą **NixOS**.
-- 💬 Chętnie porozmawiam o **architekturze oprogramowania, teorii kompilacji, systemach rozproszonych i modelowaniu AI**.
-
+I’m a passionate software creator specializing in designing and building complex, efficient, and scalable systems. My work focuses on bridging high-level architectural vision with low-level implementation to deliver solutions that are not only technically elegant but also pragmatic and effective.
+- 🔭 Currently exploring the performance frontiers in **Rust** and **GraalVM Native Image**.
+- 🌱 Honing my skills in **declarative system management** using **NixOS**.
+- 💬 Happy to discuss **software architecture, compiler theory, distributed systems, and AI modeling**.
 
 ---
-
-## 🚀 O Mnie
-
-Jako programista, poruszam się między różnymi paradygmatami i ekosystemami – od niskopoziomowego programowania systemowego w **Rust** i **C**, przez budowanie solidnych aplikacji enterprise w **Javie (Spring Boot)**, aż po tworzenie dynamicznych interfejsów w **TypeScript/React**.
-
-Fascynuje mnie optymalizacja wydajności, automatyzacja i tworzenie odtwarzalnych środowisk deweloperskich, co znalazło odzwierciedlenie w moich projektach z użyciem **GraalVM**, **Dockera** i **NixOS**. Wierzę, że najlepsze oprogramowanie powstaje na styku głębokiego zrozumienia fundamentów informatyki i praktycznego podejścia do rozwiązywania realnych problemów.
+## 🚀 About Me
+As a developer, I navigate between different paradigms and ecosystems—from low-level system programming in **Rust** and **C**, to building robust enterprise applications in **Java (Spring Boot)**, to crafting dynamic interfaces in **TypeScript/React**.
+I’m fascinated by performance optimization, automation, and creating reproducible development environments, reflected in my projects using **GraalVM**, **Docker**, and **NixOS**. I believe the best software emerges at the intersection of deep computer science fundamentals and a practical approach to solving real-world problems.
 
 ---
-
-## 💻 Stos Technologiczny
-
+## 💻 Tech Stack
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>Języki Programowania</strong><br>
+      <strong>Programming Languages</strong><br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -34,7 +24,7 @@ Fascynuje mnie optymalizacja wydajności, automatyzacja i tworzenie odtwarzalnyc
       <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="Nix">
     </td>
     <td valign="top" width="50%">
-      <strong>Backend & Bazy Danych</strong><br>
+      <strong>Backend & Databases</strong><br>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
       <img src="https://img.shields.io/badge/Actix_Web-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Actix Web">
       <img src="https://img.shields.io/badge/REST_API-0277BD?style=for-the-badge&logo=api-platform&logoColor=white" alt="REST API">
@@ -52,7 +42,7 @@ Fascynuje mnie optymalizacja wydajności, automatyzacja i tworzenie odtwarzalnyc
       <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
     </td>
     <td valign="top" width="50%">
-      <strong>DevOps, Systemy i Narzędzia</strong><br>
+      <strong>DevOps, Systems & Tools</strong><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
       <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -64,175 +54,148 @@ Fascynuje mnie optymalizacja wydajności, automatyzacja i tworzenie odtwarzalnyc
 </table>
 
 ---
+## 📂 My Projects
+Below is a detailed overview of my most important work. Projects are grouped thematically to showcase the breadth of my skills.
 
-## 📂 Moje Projekty
-
-Poniżej znajduje się szczegółowy przegląd moich najważniejszych prac. Projekty zostały pogrupowane tematycznie, aby zaprezentować szeroki zakres moich umiejętności.
-
-### I. Architektura Systemów i Projekty Koncepcyjne
-*W tej sekcji prezentuję głębokie eksploracje techniczne, które wykraczają poza standardową implementację. Są to studia przypadków i specyfikacje architektoniczne, demonstrujące zdolność do projektowania złożonych systemów od podstaw.*
+### I. System Architecture & Conceptual Projects
+*In this section, I present deep technical explorations that go beyond standard implementation. These are case studies and architectural specifications demonstrating the ability to design complex systems from scratch.*
 
 <details>
-<summary><strong>Project Nexus: Specyfikacja Zunifikowanego Języka Programowania</strong></summary>
-
-> **Cel Projektu:** Zaprojektowanie i opisanie w specyfikacji technicznej nowego języka programowania (`.nx`) oraz jego ekosystemu. Celem jest stworzenie następcy, który syntetyzuje wydajność C, produktywność Pythona i asynchroniczność JavaScript w jeden spójny paradygmat.
+<summary><strong>Project Nexus: Specification for a Unified Programming Language</strong></summary>
+> **Project Goal:** Design and specify a new programming language (`.nx`) and its ecosystem. The aim is to create a successor that synthesizes the performance of C, the productivity of Python, and the asynchronicity of JavaScript into a single coherent paradigm.
 >
-> **Kluczowe Koncepcje Architektoniczne:**
-> - **Unified Intermediate Representation (UIR):** Rdzeń systemu – wspólna reprezentacja pośrednia, na którą kompilowany jest kod z różnych języków, umożliwiając bezprecedensowe optymalizacje.
-> - **Library Ingestor (`nexlink`):** Narzędzie do transpikacji istniejących bibliotek (C, Python, JS) do natywnego formatu `.nexlib`, co eliminuje potrzebę FFI (Foreign Function Interface).
-> - **Polyglot Optimizer:** Zaawansowany optymalizator zdolny do przeprowadzania transformacji międzyjęzykowych, takich jak inlinowanie funkcji z biblioteki Python bezpośrednio w pętli napisanej w Nexus.
-> - **Dwupoziomowy Model Pamięci:** Domyślne, bezpieczne zarządzanie pamięcią (ARC + GC) z możliwością przejścia do bloku `perf {}` z manualną alokacją i analizą pożyczek (borrow-checking) inspirowaną Rustem.
+> **Key Architectural Concepts:**
+> - **Unified Intermediate Representation (UIR):** The core system—a common intermediate representation into which code from various languages is compiled, enabling unprecedented optimizations.
+> - **Library Ingestor (`nexlink`):** A tool for transpiling existing libraries (C, Python, JS) into the native `.nexlib` format, eliminating the need for FFI (Foreign Function Interface).
+> - **Polyglot Optimizer:** An advanced optimizer capable of cross-language transformations, such as inlining a Python function directly into a Nexus loop.
+> - **Dual Memory Model:** Default safe memory management (ARC + GC) with the ability to switch to a `perf {}` block with manual allocation and borrow-checking inspired by Rust.
 >
-> **Wartość Projektu:** Demonstruje głębokie zrozumienie **teorii kompilacji, projektowania języków, systemów operacyjnych i złożonej architektury oprogramowania**.
-
+> **Project Value:** Demonstrates deep understanding of **compiler theory, language design, operating systems, and complex software architecture**.
 </details>
 
 <details>
-<summary><strong>Project Phoenix: Architektura Hybrydowej Aplikacji Desktopowej</strong></summary>
-
-> **Cel Projektu:** Zaprojektowanie architektury hybrydowej aplikacji desktopowej, która łączy **natychmiastowy start i niskie zużycie pamięci** (charakterystyczne dla aplikacji natywnych) z **szybkością i elastycznością tworzenia UI** (charakterystyczną dla technologii webowych).
+<summary><strong>Project Phoenix: Hybrid Desktop Application Architecture</strong></summary>
+> **Project Goal:** Design a hybrid desktop application architecture that combines **instant startup and low memory usage** (characteristic of native apps) with **the speed and flexibility of web UI development**.
 >
-> **Kluczowe Koncepcje Architektoniczne:**
-> - **Natywny Backend (AOT Compilation):** Backend w **Spring Boot** kompilowany do natywnego pliku binarnego za pomocą **GraalVM Native Image**, co zapewnia start w ułamku sekundy.
-> - **Frontend w Javie:** Interfejs użytkownika pisany w Javie, a następnie kompilowany do wysokowydajnego JavaScript/WebAssembly przy użyciu narzędzi takich jak `J2CL`.
-> - **Powłoka Desktopowa:** Minimalistyczna aplikacja **JavaFX** z komponentem `WebView`, która renderuje webowy frontend, działając na standardowej maszynie JVM.
-> - **Ścisły Kontrakt API:** Współdzielony moduł Maven z obiektami DTO, który zapewnia bezpieczeństwo typów i stanowi formalny kontrakt między klientem a serwerem.
+> **Key Architectural Concepts:**
+> - **Native Backend (AOT Compilation):** Backend in **Spring Boot** compiled to a native binary using **GraalVM Native Image**, ensuring startup in a fraction of a second.
+> - **Java Frontend:** User interface written in Java, then compiled to high-performance JavaScript/WebAssembly using tools like `J2CL`.
+> - **Desktop Shell:** Minimalist **JavaFX** application with a `WebView` component that renders the web frontend, running on a standard JVM.
+> - **Strict API Contract:** Shared Maven module with DTOs, ensuring type safety and serving as a formal contract between client and server.
 >
-> **Wartość Projektu:** Pokazuje umiejętność projektowania **złożonych, wielomodułowych systemów**, znajomość zaawansowanych technik kompilacji oraz podejmowanie świadomych kompromisów architektonicznych.
-
+> **Project Value:** Shows the ability to design **complex, multi-module systems**, knowledge of advanced compilation techniques, and making informed architectural trade-offs.
 </details>
 
 <details>
-<summary><strong>Architektoniczne Studia Przypadków (Startup-y jako Idee Techniczne)</strong></summary>
-
-> Te projekty to techniczne analizy problemów biznesowych, przedstawione jako gotowe koncepcje architektoniczne dla hipotetycznych startupów.
+<summary><strong>Architectural Case Studies (Startups as Technical Ideas)</strong></summary>
+> These projects are technical analyses of business problems, presented as ready-made architectural concepts for hypothetical startups.
 >
-> 1.  **Intellexa - Market Intelligence from AI Conversations:**
->     - **Problem:** Firmy posiadają miliony logów z chatbotów AI ("dark data"), które są niewykorzystanym zasobem.
->     - **Rozwiązanie Techniczne:** Trójwarstwowa platforma SaaS (B2B). **Tier 1 (Ignite):** Dashboard analityczny z anonimizacją PII i klastrowaniem tematów. **Tier 2 (Accelerate):** Dodaje API do wglądów i benchmarkingu. **Tier 3 (Apex):** Wprowadza Fine-Tuning as a Service (FaaS) i wsparcie dedykowanego stratega danych. Architektura oparta na mikroserwisach, przetwarzaniu strumieniowym i modelach NLP.
+> 1. **Intellexa - Market Intelligence from AI Conversations:**
+>    - **Problem:** Companies have millions of AI chatbot logs ("dark data") that are an untapped resource.
+>    - **Technical Solution:** Three-tier SaaS platform (B2B). **Tier 1 (Ignite):** Analytical dashboard with PII anonymization and topic clustering. **Tier 2 (Accelerate):** Adds API for insights and benchmarking. **Tier 3 (Apex):** Introduces Fine-Tuning as a Service (FaaS) and dedicated data strategist support. Architecture based on microservices, stream processing, and NLP models.
 >
-> 2.  **Integrit Labs - Integration as a Service:**
->     - **Problem:** Inżynierowie tracą cenny czas na integrację i utrzymanie zewnętrznych SDK (Stripe, Twilio, Scandit), zamiast skupiać się na rozwoju produktu.
->     - **Rozwiązanie Techniczne:** Firma świadcząca usługi integracyjne, ewoluująca w kierunku platformy. **Faza 1:** Usługi eksperckie (fixed-price). **Faza 2:** Produkt w postaci premium wtyczki do WordPress (`Integrit Connect`). **Faza 3:** Stworzenie `Integrit API` - zunifikowanego "API do API", które staje się głównym produktem SaaS.
+> 2. **Integrit Labs - Integration as a Service:**
+>    - **Problem:** Engineers waste valuable time integrating and maintaining external SDKs (Stripe, Twilio, Scandit), instead of focusing on product development.
+>    - **Technical Solution:** Integration services company evolving into a platform. **Phase 1:** Expert services (fixed-price). **Phase 2:** Premium WordPress plugin (`Integrit Connect`). **Phase 3:** Creation of `Integrit API`—a unified "API to API" that becomes the main SaaS product.
 >
-> 3.  **LearnSphere Academy - EdTech Platform:**
->     - **Problem:** Potrzeba stworzenia profesjonalnej, angażującej platformy edukacyjnej.
->     - **Rozwiązanie Techniczne:** Projekt strony docelowej i wstępna architektura systemu. Frontend w **Next.js** (dla SEO i wydajności), backend jako **Headless CMS** (np. Strapi) do zarządzania treścią (kursy, tutorzy) oraz API do obsługi zapisów i konsultacji. W przyszłości integracja z **SphereLabs AI** – własnym modułem LLM do personalizacji nauki.
+> 3. **LearnSphere Academy - EdTech Platform:**
+>    - **Problem:** Need for a professional, engaging educational platform.
+>    - **Technical Solution:** Landing page design and initial system architecture. Frontend in **Next.js** (for SEO and performance), backend as a **Headless CMS** (e.g., Strapi) for content management (courses, tutors) and API for handling registrations and consultations. Future integration with **SphereLabs AI**—a custom LLM module for personalized learning.
 >
-> **Wartość Projektów:** Demonstrują zdolność do **przekładania potrzeb biznesowych na konkretne rozwiązania techniczne** oraz myślenie o skalowalności i monetyzacji.
-
+> **Project Value:** Demonstrates the ability to **translate business needs into concrete technical solutions** and think about scalability and monetization.
 </details>
 
-### II. Aplikacje Full-Stack i Webowe
-
+### II. Full-Stack & Web Applications
 <details>
 <summary><strong>Self-Hosted AI Chat (Rust & React)</strong></summary>
-
-> **Opis:** W pełni funkcjonalna, hostowana lokalnie aplikacja do czatowania z AI. Backend napisany w **Rust (Actix Web)** wykorzystuje bibliotekę `llama-cpp-2` do inferencji na modelach LLM (format GGUF) bez potrzeby używania zewnętrznych API. Frontend zbudowany w **React** i **TypeScript** zapewnia nowoczesny i responsywny interfejs.
+> **Description:** Fully functional, locally hosted AI chat application. Backend written in **Rust (Actix Web)** uses the `llama-cpp-2` library for inference on LLM models (GGUF format) without external APIs. Frontend built in **React** and **TypeScript** provides a modern, responsive interface.
 >
-> **Kluczowe Cechy:**
-> - Brak zależności od zewnętrznych API – 100% prywatności.
-> - Zarządzanie kontekstem konwersacji.
-> - Wysoka wydajność dzięki natywnemu backendowi.
+> **Key Features:**
+> - No dependency on external APIs—100% privacy.
+> - Conversation context management.
+> - High performance thanks to native backend.
 >
-> **Technologie:** `Rust`, `Actix Web`, `llama.cpp`, `React`, `TypeScript`, `Vite`.
-
+> **Technologies:** `Rust`, `Actix Web`, `llama.cpp`, `React`, `TypeScript`, `Vite`.
 </details>
 
 <details>
-<summary><strong>Pizza Store - Aplikacja E-commerce (SPA)</strong></summary>
-
-> **Opis:** Nowoczesna aplikacja e-commerce typu Single-Page Application (SPA) symulująca sklep z pizzą. Zaimplementowano dynamiczne wyszukiwanie i filtrowanie produktów (`lodash.debounce`), zaawansowane sortowanie, zarządzanie koszykiem oraz integrację z systemem płatności **PayPal**.
+<summary><strong>Pizza Store - E-commerce Application (SPA)</strong></summary>
+> **Description:** Modern Single-Page Application (SPA) simulating a pizza store. Implemented dynamic product search and filtering (`lodash.debounce`), advanced sorting, cart management, and **PayPal** payment integration.
 >
-> **Kluczowe Cechy:**
-> - Zarządzanie stanem za pomocą **Redux Toolkit**.
-> - Synchronizacja stanu z URL i `localStorage`.
-> - Optymalizacja ładowania przez Code Splitting (`React.lazy`).
+> **Key Features:**
+> - State management with **Redux Toolkit**.
+> - State synchronization with URL and `localStorage`.
+> - Loading optimization via Code Splitting (`React.lazy`).
 >
-> **Technologie:** `React`, `TypeScript`, `Redux Toolkit`, `SCSS`, `PayPal API`.
-
+> **Technologies:** `React`, `TypeScript`, `Redux Toolkit`, `SCSS`, `PayPal API`.
 </details>
 
 <details>
-<summary><strong>Data Dashboard - Platforma do Wizualizacji Danych</strong></summary>
-
-> **Opis:** Aplikacja full-stack do zbierania, przetwarzania i wizualizacji danych osobowych z różnych źródeł. Backend w **Pythonie** cyklicznie pobiera i agreguje dane. Frontend w **Next.js** dostarcza interaktywne wykresy i filtry do eksploracji danych.
+<summary><strong>Data Dashboard - Data Visualization Platform</strong></summary>
+> **Description:** Full-stack application for collecting, processing, and visualizing personal data from various sources. Backend in **Python** periodically fetches and aggregates data. Frontend in **Next.js** delivers interactive charts and filters for data exploration.
 >
-> **Kluczowe Cechy:**
-> - Zautomatyzowane zadania w backendzie.
-> - Renderowanie po stronie serwera (SSR) dla wysokiej wydajności.
+> **Key Features:**
+> - Automated backend tasks.
+> - Server-side rendering (SSR) for high performance.
 >
-> **Technologie:** `Python`, `Next.js`, `React`, `Data Visualization`.
-
+> **Technologies:** `Python`, `Next.js`, `React`, `Data Visualization`.
 </details>
 
-### III. Systemy, Narzędzia i DevOps
-
+### III. Systems, Tools & DevOps
 <details>
-<summary><strong>Nixrach: Deklaratywna Konfiguracja Systemu NixOS</strong></summary>
-
-> **Opis:** Kompleksowa, w pełni odtwarzalna konfiguracja systemu operacyjnego **NixOS** przy użyciu **Flakes** i **Home-Manager**. Zarządza całym środowiskiem deweloperskim – od jądra systemu, przez menedżer okien (**Hyprland**), po aplikacje, aliasy i skrypty.
+<summary><strong>Nixrach: Declarative NixOS System Configuration</strong></summary>
+> **Description:** Comprehensive, fully reproducible **NixOS** system configuration using **Flakes** and **Home-Manager**. Manages the entire development environment—from kernel to window manager (**Hyprland**), applications, aliases, and scripts.
 >
-> **Kluczowe Cechy:**
-> - Zasada "Infrastructure as Code" zastosowana do stacji roboczej.
-> - Modularna struktura dla różnych hostów (desktop, laptop).
-> - Pełna automatyzacja i powtarzalność środowiska.
+> **Key Features:**
+> - "Infrastructure as Code" applied to the workstation.
+> - Modular structure for different hosts (desktop, laptop).
+> - Full automation and reproducibility.
 >
-> **Technologie:** `Nix`, `NixOS`, `Flakes`, `Home-Manager`, `Hyprland`, `Waybar`.
-
+> **Technologies:** `Nix`, `NixOS`, `Flakes`, `Home-Manager`, `Hyprland`, `Waybar`.
 </details>
 
 <details>
-<summary><strong>envdev: Menedżer Środowiska Deweloperskiego</strong></summary>
-
-> **Opis:** Natywne narzędzie CLI (Java + GraalVM) orkiestrujące skonteneryzowane środowisko deweloperskie oparte na **RHEL**. Automatycznie zarządza konfiguracją i cyklem życia kontenerów (narzędzia deweloperskie + webowy VS Code), zapewniając izolowane i powtarzalne środowisko pracy.
+<summary><strong>envdev: Developer Environment Manager</strong></summary>
+> **Description:** Native CLI tool (Java + GraalVM) orchestrating a containerized development environment based on **RHEL**. Automatically manages configuration and lifecycle of containers (developer tools + web-based VS Code), providing isolated and reproducible work environments.
 >
-> **Kluczowe Cechy:**
-> - Natychmiastowy start dzięki kompilacji do kodu natywnego.
-> - Architektura dwukontenerowa (narzędzia + IDE).
-> - Pełna automatyzacja za pomocą `docker-compose`.
+> **Key Features:**
+> - Instant startup thanks to native compilation.
+> - Dual-container architecture (tools + IDE).
+> - Full automation via `docker-compose`.
 >
-> **Technologie:** `Java`, `GraalVM Native Image`, `Docker`, `Docker Compose`, `Picocli`.
-
+> **Technologies:** `Java`, `GraalVM Native Image`, `Docker`, `Docker Compose`, `Picocli`.
 </details>
 
-### IV. Symulacje i Sztuczna Inteligencja
-
+### IV. Simulations & Artificial Intelligence
 <details>
 <summary><strong>2D Real-Time Battle Simulator</strong></summary>
-
-> **Opis:** Interaktywny symulator bitew 2D z autonomicznymi jednostkami AI, które samodzielnie wyszukują wrogów, podejmują walkę i reagują na warunki na polu bitwy. Projekt wykorzystuje obiektową architekturę oraz **HTML5 Canvas API** do renderowania w czasie rzeczywistym.
+> **Description:** Interactive 2D battle simulator with autonomous AI units that independently seek enemies, engage in combat, and react to battlefield conditions. The project uses object-oriented architecture and **HTML5 Canvas API** for real-time rendering.
 >
-> **Kluczowe Cechy:**
-> - Inteligentne zachowanie agentów (targetowanie, pościg).
-> - System walki oparty na HP i pancerzu.
-> - Dynamiczne UI z aktualizacjami w czasie rzeczywistym.
+> **Key Features:**
+> - Intelligent agent behavior (targeting, pursuit).
+> - Combat system based on HP and armor.
+> - Dynamic UI with real-time updates.
 >
-> **Technologie:** `TypeScript`, `HTML5 Canvas API`, `Object-Oriented Programming`.
-
+> **Technologies:** `TypeScript`, `HTML5 Canvas API`, `Object-Oriented Programming`.
 </details>
 
 <details>
-<summary><strong>Mind-Simulator: System Uczenia Konkurencyjnego</strong></summary>
-
-> **Opis:** Aplikacja w **Java/Spring Boot** symulująca środowisko, w którym proste, "generyczne" komórki uczące konkurują o przetwarzanie danych. Komórki, które skutecznie przetwarzają dane, wzmacniają się i rozwijają specjalizacje, demonstrując zjawisko emergencji i samoorganizacji systemu.
+<summary><strong>Mind-Simulator: Competitive Learning System</strong></summary>
+> **Description:** **Java/Spring Boot** application simulating an environment where simple, "generic" learning cells compete for data processing. Cells that successfully process data strengthen and develop specializations, demonstrating emergence and system self-organization.
 >
-> **Kluczowe Cechy:**
-> - Konkurencja o zasoby (dane) i specjalizacja.
-> - Cykl ewolucyjny (metabolizm, śmierć, narodziny).
-> - Architektura oparta na agentach.
+> **Key Features:**
+> - Competition for resources (data) and specialization.
+> - Evolutionary cycle (metabolism, death, birth).
+> - Agent-based architecture.
 >
-> **Technologie:** `Java`, `Spring Boot`, `Modelowanie Agentowe`.
-
+> **Technologies:** `Java`, `Spring Boot`, `Agent-Based Modeling`.
 </details>
 
-### V. Biblioteki i Mniejsze Projekty
-
-- **Kolekcja 15 Projektów w Czystym JavaScript:** Zbiór małych aplikacji demonstrujących dogłębną znajomość fundamentalnych mechanizmów JavaScript, manipulacji DOM i obsługi zdarzeń bez użycia frameworków.
-- **Telegram Bot w Javie:** Prosty bot dla komunikatora Telegram, napisany w Javie z wykorzystaniem frameworka Spring, demonstrujący integrację z zewnętrznymi API.
-- **Rust CLI Utility Suite:** Kolekcja narzędzi wiersza poleceń w Rust, zawierająca m.in. programy do bezpiecznego kopiowania plików i przetwarzania CSV.
-- **StructUI:** Lekka, oparta na klasach biblioteka UI napisana w TypeScript i uruchamiana za pomocą `bun.js`.
+### V. Libraries & Smaller Projects
+- **Collection of 15 Pure JavaScript Projects:** Small applications demonstrating in-depth knowledge of fundamental JavaScript mechanisms, DOM manipulation, and event handling without frameworks.
+- **Telegram Bot in Java:** Simple Telegram bot written in Java using the Spring framework, demonstrating integration with external APIs.
+- **Rust CLI Utility Suite:** Collection of command-line tools in Rust, including programs for secure file copying and CSV processing.
+- **StructUI:** Lightweight, class-based UI library written in TypeScript and run with `bun.js`.
 
 ---
-
-Jestem zawsze otwarty na nowe wyzwania i ciekawe projekty. Jeśli moja praca Cię zainteresowała, zapraszam do kontaktu!
+I’m always open to new challenges and interesting projects. If my work interests you, feel free to reach out!
