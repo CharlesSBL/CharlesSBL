@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Karol!
+# 👋 Hi!
 ### Software Architect & Full-Stack Developer
 I’m a passionate software creator specializing in designing and building complex, efficient, and scalable systems. My work focuses on bridging high-level architectural vision with low-level implementation to deliver solutions that are not only technically elegant but also pragmatic and effective.
 - 🔭 Currently exploring the performance frontiers in **Rust** and **GraalVM Native Image**.
